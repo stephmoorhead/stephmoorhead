@@ -1,5 +1,5 @@
 ### Hello! 👋
-### I’m currently working on customer content to showcase the incredible things our customers do with GitHub ✨
+###### I’m currently working on customer content to showcase the incredible things our customers do with GitHub ✨
 <!--
 **stephmoorhead/stephmoorhead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
